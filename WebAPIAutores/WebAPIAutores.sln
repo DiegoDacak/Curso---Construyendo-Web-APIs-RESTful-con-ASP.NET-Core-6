@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIAutores", "WebAPIAutores\WebAPIAutores.csproj", "{5457F4BE-0D45-4262-B0CE-ED39DB7CC525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIAutories.test", "WebAPIAutories.test\WebAPIAutories.test.csproj", "{7249FE23-CBC1-4934-837F-E12C383E7E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5457F4BE-0D45-4262-B0CE-ED39DB7CC525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5457F4BE-0D45-4262-B0CE-ED39DB7CC525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5457F4BE-0D45-4262-B0CE-ED39DB7CC525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5457F4BE-0D45-4262-B0CE-ED39DB7CC525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7249FE23-CBC1-4934-837F-E12C383E7E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7249FE23-CBC1-4934-837F-E12C383E7E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7249FE23-CBC1-4934-837F-E12C383E7E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7249FE23-CBC1-4934-837F-E12C383E7E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

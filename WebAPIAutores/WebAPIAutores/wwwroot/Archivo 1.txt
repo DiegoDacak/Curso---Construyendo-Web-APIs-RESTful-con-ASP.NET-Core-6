@@ -1,0 +1,9 @@
+Proceso iniciado
+Proceso en ejecucion: 11/12/21 03:53:50
+Proceso en ejecucion: 11/12/21 03:53:55
+Proceso en ejecucion: 11/12/21 03:54:00
+Proceso en ejecucion: 11/12/21 03:54:05
+Proceso en ejecucion: 11/12/21 03:54:10
+Proceso en ejecucion: 11/12/21 03:54:15
+Proceso en ejecucion: 11/12/21 03:54:20
+Proceso finalizado
