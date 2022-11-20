@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using MoviesApi.Common.Messages;
 
-namespace MoviesApi.DTOs.Genre
+namespace MoviesApi.DTOs.Gender
 {
     public class CreateGenderDto
     {

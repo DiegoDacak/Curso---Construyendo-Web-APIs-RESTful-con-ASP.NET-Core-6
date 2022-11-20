@@ -162,3 +162,8 @@ C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET 
 C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\obj\Debug\net5.0\staticwebassets\MoviesApi.StaticWebAssets.Pack.cache
+C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\obj\Debug\net5.0\staticwebassets\msbuild.MoviesApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MoviesApi.props
+C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApi.props
+C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MoviesApi.props

@@ -3,7 +3,7 @@ using System.Linq;
 using AutoMapper;
 using MoviesApi.DTOs.Actor;
 using MoviesApi.DTOs.Cinema;
-using MoviesApi.DTOs.Genre;
+using MoviesApi.DTOs.Gender;
 using MoviesApi.DTOs.Movie;
 using MoviesApi.Entities;
 using NetTopologySuite.Geometries;

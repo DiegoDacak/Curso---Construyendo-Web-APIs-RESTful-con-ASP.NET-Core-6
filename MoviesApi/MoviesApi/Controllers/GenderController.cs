@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using MoviesApi.Common.Messages;
 using MoviesApi.Common.RoutesName;
 using MoviesApi.Context;
-using MoviesApi.DTOs.Genre;
+using MoviesApi.DTOs.Gender;
 using MoviesApi.Entities;
 
 namespace MoviesApi.Controllers
@@ -15,7 +15,6 @@ namespace MoviesApi.Controllers
     [Route("api/gender")]
     public class GenderController : CustomBaseController
     {
-
         public GenderController(ApplicationDbContext context, IMapper mapper) : base(context, mapper) { }
 
         [HttpGet]

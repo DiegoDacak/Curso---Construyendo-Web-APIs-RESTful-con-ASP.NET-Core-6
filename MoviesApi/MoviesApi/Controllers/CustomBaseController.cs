@@ -49,7 +49,7 @@ namespace MoviesApi.Controllers
             {
                 return NotFound(badRequestMessage);
             }
-            return _mapper.Map<TDto>(entity);;
+            return _mapper.Map<TDto>(entity);
         }
 
         protected async Task<ActionResult> Post<TEntity, TDto>(TDto dto, string routeName, string okMessage,

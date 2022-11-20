@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using MoviesApi.DTOs.Genre;
+using MoviesApi.DTOs.Gender;
 
 namespace MoviesApi.DTOs.Movie
 {
