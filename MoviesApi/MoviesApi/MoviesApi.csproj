@@ -25,4 +25,10 @@
       <Folder Include="wwwroot" />
     </ItemGroup>
 
+    <ItemGroup>
+      <EditorConfigFiles Update="..\..\..\..\..\..\..\Program Files\dotnet\sdk\7.0.100\Sdks\Microsoft.NET.Sdk\analyzers\build\config\analysislevel_5_default.editorconfig">
+        <DependentUpon>appsettings.json</DependentUpon>
+      </EditorConfigFiles>
+    </ItemGroup>
+
 </Project>
