@@ -132,7 +132,7 @@ namespace MoviesApi.Controllers
                 await createMovieDto.Poster.CopyToAsync(memoryStream, token);
                 var content = memoryStream.ToArray();
                 var extension = Path.GetExtension(createMovieDto.Poster.FileName);
-                movieEntity.Poster = await _fileStorage.SaveArchive(content, extension,
+                movieEntity.Poster = await _fileStorage.SaveFile(content, extension,
                 Container.MovieContainer, createMovieDto.Poster.ContentType);
             }
             AssignOrderMovies(movieEntity);
@@ -172,7 +172,7 @@ namespace MoviesApi.Controllers
                 await createMovieDto.Poster.CopyToAsync(memoryStream, token);
                 var content = memoryStream.ToArray();
                 var extension = Path.GetExtension(createMovieDto.Poster.FileName);
-                movieDb.Poster = await _fileStorage.EditArchive(content, extension,
+                movieDb.Poster = await _fileStorage.EditFile(content, extension,
                     Container.ActorContainer,movieDb.Poster, createMovieDto.Poster.ContentType);
             }
             AssignOrderMovies(movieDb);

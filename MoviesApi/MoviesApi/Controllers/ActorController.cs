@@ -25,7 +25,7 @@ namespace MoviesApi.Controllers
         private readonly ApplicationDbContext _context;
         private readonly IFileStorage _fileStorage;
         
-        public ActorController(IMapper mapper, ApplicationDbContext context, IFileStorage fileStorage) : base(context, mapper)
+        public ActorController(ApplicationDbContext context, IMapper mapper, IFileStorage fileStorage) : base(context, mapper)
         {
             _mapper = mapper;
             _context = context;
@@ -54,7 +54,7 @@ namespace MoviesApi.Controllers
                 await createActorDto.Photo.CopyToAsync(memoryStream, token);
                 var content = memoryStream.ToArray();
                 var extension = Path.GetExtension(createActorDto.Photo.FileName);
-                actorEntity.Photo = await _fileStorage.SaveArchive(content, extension,
+                actorEntity.Photo = await _fileStorage.SaveFile(content, extension,
                     Container.ActorContainer, createActorDto.Photo.ContentType);
             }
             _context.Add(actorEntity);
@@ -79,7 +79,7 @@ namespace MoviesApi.Controllers
                 await createActorDto.Photo.CopyToAsync(memoryStream, token);
                 var content = memoryStream.ToArray();
                 var extension = Path.GetExtension(createActorDto.Photo.FileName);
-                actorDb.Photo = await _fileStorage.EditArchive(content, extension,
+                actorDb.Photo = await _fileStorage.EditFile(content, extension,
                     Container.ActorContainer,actorDb.Photo, createActorDto.Photo.ContentType);
             }
 

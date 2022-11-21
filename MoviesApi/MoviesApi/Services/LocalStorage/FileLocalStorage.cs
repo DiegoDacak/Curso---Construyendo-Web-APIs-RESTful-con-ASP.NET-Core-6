@@ -21,7 +21,7 @@ namespace MoviesApi.Services.LocalStorage
             _httpContextAccessor = httpContextAccessor;
         }
         
-        public async Task<string> SaveArchive(byte[] content, string extension, string container, string contentType)
+        public async Task<string> SaveFile(byte[] content, string extension, string container, string contentType)
         {
             var fileName = $"{Guid.NewGuid()}{extension}";
             var folder = Path.Combine(_environment.WebRootPath, container);
@@ -40,13 +40,13 @@ namespace MoviesApi.Services.LocalStorage
             return bdUrl;
         }
 
-        public async Task<string> EditArchive(byte[] content, string extension, string container, string urlRute, string contentType)
+        public async Task<string> EditFile(byte[] content, string extension, string container, string urlRute, string contentType)
         {
-            await DeleteArchive(urlRute, container);
-            return await SaveArchive(content, extension, container, contentType);
+            await DeleteFile(urlRute, container);
+            return await SaveFile(content, extension, container, contentType);
         }
 
-        public Task DeleteArchive(string rute, string container)
+        public Task DeleteFile(string rute, string container)
         {
             if (rute is null) return Task.FromResult(0);
             var fileName = Path.GetFileName(rute);

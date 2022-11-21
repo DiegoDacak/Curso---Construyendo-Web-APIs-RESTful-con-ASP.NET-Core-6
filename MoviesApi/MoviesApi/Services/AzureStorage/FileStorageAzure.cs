@@ -17,7 +17,7 @@ namespace MoviesApi.Services.AzureStorage
             _connectionString = configuration.GetConnectionString("AzureStorage");
         }
         
-        public async Task<string> SaveArchive(byte[] content, string extension, string container, string contentType)
+        public async Task<string> SaveFile(byte[] content, string extension, string container, string contentType)
         {
             var client = new BlobContainerClient(_connectionString, container);
             // If not exist going to create
@@ -44,14 +44,14 @@ namespace MoviesApi.Services.AzureStorage
             return blob.Uri.ToString();
         }
 
-        public async Task<string> EditArchive(byte[] content, string extension, string container, 
+        public async Task<string> EditFile(byte[] content, string extension, string container, 
             string urlRute, string contentType)
         {
-            await DeleteArchive(urlRute, container);
-            return await SaveArchive(content, extension, container, contentType);
+            await DeleteFile(urlRute, container);
+            return await SaveFile(content, extension, container, contentType);
         }
 
-        public async Task DeleteArchive(string urlRute, string container)
+        public async Task DeleteFile(string urlRute, string container)
         {
             if (string.IsNullOrEmpty(urlRute))
             {

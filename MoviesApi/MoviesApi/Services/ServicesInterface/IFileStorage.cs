@@ -4,11 +4,11 @@ namespace MoviesApi.Services.ServicesInterface
 {
     public interface IFileStorage
     {
-        Task<string> SaveArchive(byte[] content, string extension, string container, string contentType);
+        Task<string> SaveFile(byte[] content, string extension, string container, string contentType);
 
-        Task<string> EditArchive(byte[] content, string extension, string container, string urlRute,
+        Task<string> EditFile(byte[] content, string extension, string container, string urlRute,
             string contentType);
 
-        Task DeleteArchive(string rute, string container);
+        Task DeleteFile(string rute, string container);
     }
 }
