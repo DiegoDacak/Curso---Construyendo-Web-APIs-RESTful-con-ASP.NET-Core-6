@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿
+
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using MoviesApi.Context;
 using MoviesApi.Services.AutoMapper;
@@ -8,7 +10,7 @@ namespace MoviesApi.test;
 
 public class TestsBase
 {
-    protected static ApplicationDbContext BuildContext(string dbName)
+    protected ApplicationDbContext BuildContext(string dbName)
     {
         var options = new DbContextOptionsBuilder<ApplicationDbContext>()
             .UseInMemoryDatabase(dbName).Options;

@@ -4,27 +4,197 @@
     <projectFile profileName="IIS Express">MoviesApi/MoviesApi.csproj</projectFile>
     <projectFile profileName="MoviesApi">MoviesApi/MoviesApi.csproj</projectFile>
   </component>
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c742b1a-c391-446a-832b-c9f2ee05679a" name="Changes" comment="">
+    <list default="true" id="29f43a06-f3e5-4367-bae0-8f1b770f4a0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MoviesApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoviesApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/MoviesApi.test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/MoviesApi.test.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/TestsBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/TestsBase.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/MoviesApi.test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi.test/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Enum/ArchiveTypeGroup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Enum/ArchiveTypeGroup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Messages/ErrorMessages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Messages/ErrorMessages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Messages/NotFoundMessages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Messages/NotFoundMessages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Messages/OkMessages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Messages/OkMessages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Messages/ValidationMessages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Messages/ValidationMessages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/RoutesName/RoutesName.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/RoutesName/RoutesName.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Common/Strings/Container.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Common/Strings/Container.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Context/AplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Context/AplicationDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/Controllers/ActorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Controllers/ActorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Controllers/CinemaController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Controllers/CinemaController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Controllers/CustomBaseController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Controllers/CustomBaseController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Controllers/GenderController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Controllers/GenderController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/Controllers/MovieController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Controllers/MovieController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/ActorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/ActorDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/ActorPatchDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/ActorPatchDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/CreateActorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Actor/CreateActorDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/CinemaDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/CinemaDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/CreateCinemaDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/CreateCinemaDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/NearbyCinemaDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/NearbyCinemaDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/NearbyCinemaFilterDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Cinema/NearbyCinemaFilterDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Gender/CreateGenderDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Gender/CreateGenderDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Gender/GenderDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Gender/GenderDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/CreateMovieDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/CreateMovieDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/FilterMovieDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/FilterMovieDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieActorCreateDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieActorCreateDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieActorDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieActorDetailDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieDetailDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MovieDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MoviePatchDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MoviePatchDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MoviesIndexDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Movie/MoviesIndexDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/DTOs/Pagination/PaginationDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/DTOs/Pagination/PaginationDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/Actor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/Actor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/Cinema.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/Cinema.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/Gender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/Gender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/Interfaces/IId.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/Interfaces/IId.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/Movie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/MovieActor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/MovieActor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/MovieGender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/MovieGender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Entities/MoviesCinema.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Entities/MoviesCinema.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220313194902_init.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220313194902_init.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220313194902_init.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220313194902_init.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220314003800_actors.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220314003800_actors.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220314003800_actors.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220314003800_actors.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220327223007_movies.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220327223007_movies.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220327223007_movies.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220327223007_movies.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220328020400_MoviesActors_MoviesGenders.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220328020400_MoviesActors_MoviesGenders.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220328020400_MoviesActors_MoviesGenders.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220328020400_MoviesActors_MoviesGenders.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220605180216_cinema.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220605180216_cinema.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220605180216_cinema.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220605180216_cinema.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220605184312_cinema location.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220605184312_cinema location.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/20220605184312_cinema location.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/20220605184312_cinema location.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/MoviesApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/MoviesApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Services/AutoMapper/AutoMapperProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/AutoMapper/AutoMapperProfile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/Services/AzureStorage/FileStorageAzure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/AzureStorage/FileStorageAzure.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Services/HttpContextExtensions/HttpContextExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/HttpContextExtensions/HttpContextExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/Services/LocalStorage/FileLocalStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/LocalStorage/FileLocalStorage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Services/ModelBinder/TypeBinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/ModelBinder/TypeBinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Services/Pagination/QueryableExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/Pagination/QueryableExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/Services/ServicesInterface/IFileStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Services/ServicesInterface/IFileStorage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Validations/ArchiveSizeValidation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Validations/ArchiveSizeValidation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/Validations/ArchiveTypeValidation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/Validations/ArchiveTypeValidation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/MoviesApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/MoviesApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/MoviesApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/MoviesApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesApi/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/.idea/.idea.WebAPIAutores/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/AutoresController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/AutoresController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/ComentariosController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/ComentariosController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/LibrosController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/LibrosController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/RootController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/RootController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Controllers/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorCreacionDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorCreacionDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorDTOConLibros.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/AutorDTOConLibros.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ColeccionDeRecursos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ColeccionDeRecursos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ComentarioCreacionDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ComentarioCreacionDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ComentarioDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ComentarioDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/CredencialesUsuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/CredencialesUsuario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/DatoHATEOAS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/DatoHATEOAS.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/EditarAdminDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/EditarAdminDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroCreacionDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroCreacionDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroDTConAutores.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroDTConAutores.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroPatchDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/LibroPatchDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/Recurso.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/Recurso.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/RespuestaAutenticacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/RespuestaAutenticacion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ResultadoHash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/DTOs/ResultadoHash.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Autor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Autor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/AutorLibro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/AutorLibro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Comentario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Comentario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Libros.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Libros.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Entidades/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Filtros/FiltroDeExcepcion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Filtros/FiltroDeExcepcion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Middlewares/LoguearRespuestaHTTPMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Middlewares/LoguearRespuestaHTTPMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212184952_Initial.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212184952_Initial.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212184952_Initial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212184952_Initial.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212200015_Comentarios.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212200015_Comentarios.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212200015_Comentarios.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211212200015_Comentarios.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219173820_AutoresLibros.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219173820_AutoresLibros.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219173820_AutoresLibros.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219173820_AutoresLibros.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219201622_FechaPublicacionLibeo.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219201622_FechaPublicacionLibeo.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219201622_FechaPublicacionLibeo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211219201622_FechaPublicacionLibeo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211224204528_Identity.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211224204528_Identity.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211224204528_Identity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211224204528_Identity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211225164052_ComentarioUsuario.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211225164052_ComentarioUsuario.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211225164052_ComentarioUsuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/20211225164052_ComentarioUsuario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Servicios/HashService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Servicios/HashService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Utilidades/AutoMapperProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Utilidades/AutoMapperProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Validations/PrimerLetraMayuscuaAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/Validations/PrimerLetraMayuscuaAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/WebAPIAutores.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/WebAPIAutores.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/WebAPIAutores.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/Debug/net5.0/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/WebAPIAutores.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/wwwroot/Archivo 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutores/wwwroot/Archivo 1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/Mocks/AuthorisationServicesSuccessMock.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/Mocks/AuthorisationServicesSuccessMock.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/Mocks/UrlHelperMock.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/Mocks/UrlHelperMock.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/PruebasUnitarias/PrimerLetraMayuscuaAttributeTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/PruebasUnitarias/PrimerLetraMayuscuaAttributeTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/PruebasUnitarias/RootControllerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/PruebasUnitarias/RootControllerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/WebAPIAutories.test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/WebAPIAutories.test.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutores.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/WebAPIAutories.test.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/Debug/net5.0/WebAPIAutories.test.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/WebAPIAutories.test.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIAutores/WebAPIAutories.test/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,51 +204,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2be8b3da0c13498facfde467bcd8c03d1bfb88/65/a166fc0a/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b61827d6d544985ba4ead370f6b9f0d91200/4a/ef066989/GeometryFactory.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52c7ae4730764bbbbe62ab4e2f67ea17da80/98/ab1f1dd8/JsonPatchDocument`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5557a1956ec94c858520ca28292a3b50a588/48/2d6b1096/IFormFile.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b2b591f410f34e029e585a3f8c906c561bbfb0/4b/b1712535/CreatedAtRouteResult.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b2b591f410f34e029e585a3f8c906c561bbfb0/eb/0b384d11/ModelBinderAttribute.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d49eb529e7e846e79b2a793f140d0fc37b88/69/0437ebeb/IWebHostEnvironment.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e96d16e7ed5043de8177e7169812151c200b90/d5/93c6524a/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f39f8b3179d5493cb62c91d7a3b5bd5d3de00/cd/c1e29b49/IMapperBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2d16cb65784048cfb80e79692ffe2c5e2ad80/20/ValidationAttribute.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/52c7ae4730764bbbbe62ab4e2f67ea17da80/19/JsonPatchDocumentOfT.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/697050deb22a2642d1f1311dc2abbff272e4d5575d8f69d97af9f902d985b27/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/87c8f0a2b3113ed8ac865048fe1e32205e9f44b1be45f83f62fe6fdd443dcb3/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/928d4059ee3142d583b9391f138ee6ac8f5988/233/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/928d4059ee3142d583b9391f138ee6ac8f5988/41A/List.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b2b591f410f34e029e585a3f8c906c561bbfb0/E7/BinderTypeModelBinder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MoviesApi/Controllers/ActorController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MoviesApi/Services/ServicesInterface/IFileStorage.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26KvgD4bn1G3Z8O7xyTfwpHdEAE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2Hpl3hadCpJv01uXC9GNTDYhwwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -118,114 +257,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c742b1a-c391-446a-832b-c9f2ee05679a" name="Changes" comment="" />
-      <created>1647185200708</created>
+      <changelist id="29f43a06-f3e5-4367-bae0-8f1b770f4a0f" name="Changes" comment="" />
+      <created>1668989708940</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647185200708</updated>
-      <workItem from="1647185205055" duration="12338000" />
-      <workItem from="1647217500700" duration="994000" />
-      <workItem from="1647799701770" duration="8781000" />
-      <workItem from="1647811712081" duration="350000" />
-      <workItem from="1647812202749" duration="2172000" />
-      <workItem from="1647905552881" duration="2993000" />
-      <workItem from="1648162421711" duration="1941000" />
-      <workItem from="1648410301591" duration="5497000" />
-      <workItem from="1648420129888" duration="2895000" />
-      <workItem from="1648432328138" duration="3860000" />
-      <workItem from="1648580016907" duration="1970000" />
-      <workItem from="1648662672745" duration="269000" />
-      <workItem from="1648663573785" duration="806000" />
-      <workItem from="1648670582306" duration="2736000" />
-      <workItem from="1648674213611" duration="1322000" />
-      <workItem from="1648738124448" duration="280000" />
-      <workItem from="1648779880342" duration="601000" />
-      <workItem from="1648837565781" duration="509000" />
-      <workItem from="1649446455560" duration="2336000" />
-      <workItem from="1649633897876" duration="5128000" />
-      <workItem from="1649640961884" duration="3158000" />
-      <workItem from="1649683158760" duration="53000" />
-      <workItem from="1649687805723" duration="346000" />
-      <workItem from="1649691904329" duration="4412000" />
-      <workItem from="1649705532679" duration="757000" />
-      <workItem from="1649794260699" duration="2702000" />
-      <workItem from="1649798827216" duration="989000" />
-      <workItem from="1650055001501" duration="321000" />
-      <workItem from="1650055344532" duration="2472000" />
-      <workItem from="1650073143030" duration="6282000" />
-      <workItem from="1650651552434" duration="274000" />
-      <workItem from="1651237910572" duration="986000" />
-      <workItem from="1652107560785" duration="594000" />
-      <workItem from="1652108286452" duration="1610000" />
-      <workItem from="1653507985807" duration="480000" />
-      <workItem from="1653513060452" duration="486000" />
-      <workItem from="1653514049848" duration="638000" />
-      <workItem from="1653662307082" duration="577000" />
-      <workItem from="1654445077331" duration="8596000" />
-      <workItem from="1655408799822" duration="2833000" />
-      <workItem from="1655418370247" duration="58000" />
-      <workItem from="1655418549506" duration="164000" />
-      <workItem from="1655736821977" duration="774000" />
-      <workItem from="1656009195376" duration="559000" />
-      <workItem from="1656689863340" duration="440000" />
-      <workItem from="1657229930795" duration="795000" />
-      <workItem from="1668556863951" duration="3042000" />
-      <workItem from="1668561263601" duration="601000" />
-      <workItem from="1668978450871" duration="9888000" />
+      <updated>1668989708940</updated>
+      <workItem from="1668989719449" duration="276000" />
+      <workItem from="1668990080279" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MoviesApi/Services/AzureStorage/FileStorageAzure.cs</url>
-          <line>33</line>
-          <properties documentPath="C:\Users\Diego Dacak\Documents\Cursos\ASP.NET Core Api con Flutter\Proyecto Final\MoviesApi\MoviesApi\Services\AzureStorage\FileStorageAzure.cs" initialLine="33" containingFunctionPresentation="method 'SaveArchive'" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MoviesApi.test/UnitTest/GenderControllerTests.cs</url>
-          <line>20</line>
-          <properties documentPath="C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi.test\UnitTest\GenderControllerTests.cs" initialLine="20" containingFunctionPresentation="method 'GetAllGender'">
-            <startOffsets>
-              <option value="507" />
-            </startOffsets>
-            <endOffsets>
-              <option value="546" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MoviesApi.test/TestsBase.cs</url>
-          <line>12</line>
-          <properties documentPath="C:\Users\Diego Dacak\Documents\Cursos\Construyendo Web APIs RESTful con ASP.NET Core 6\MoviesApi\MoviesApi.test\TestsBase.cs" initialLine="14" containingFunctionPresentation="method 'BuildContext'">
-            <startOffsets>
-              <option value="278" />
-            </startOffsets>
-            <endOffsets>
-              <option value="393" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <pin-to-top-manager>
-      <pinned-members>
-        <PinnedItemInfo parentTag="Type#MoviesApi.Entities.Movie" memberName="MovieActors" />
-        <PinnedItemInfo parentTag="Type#MoviesApi.Entities.Movie" memberName="Id" />
-      </pinned-members>
-    </pin-to-top-manager>
   </component>
 </project>
